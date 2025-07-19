@@ -26,8 +26,8 @@ The macropad features 9 mechanical switches in a 3x3 layout, powered by a Raspbe
 - Designed schematic and PCB layout using **KiCad**
 - Included custom **footprints**, **routing**, and **pin mapping**
 - Integrated components:  
-  - **Raspberry Pi Pico**  
-  - **Resistors**, **MOSFETs**, **Diodes**, **LEDs**
+  - **Raspberry Pi Pico** microcontroller
+  - **Resistors (including pull-up/pull-down)**, **Capacitors**, **MOSFET**, **Diodes**, **LEDs**, **Tactile Switches**, **Micro USB connecter**
 
 ### 🧱 Mechanical Design
 - Built a **3D-printed enclosure** using **Fusion 360**
@@ -51,29 +51,10 @@ The macropad features 9 mechanical switches in a 3x3 layout, powered by a Raspbe
 
 ---
 
-## 📷 Project Gallery
-
-_Add images of the PCB design, 3D model, assembled product, and dashboard screenshots here._
-
----
-
 ## 🧠 Lessons Learned
 
 - PCB design and schematic layout with KiCad
 - Hands-on experience with QMK firmware and embedded C
 - Team collaboration in Agile environments
-- Integration of hardware, firmware, and mechanical components
-
+- Integration of hardware, firmware, and mechanical components and end-to-end product design
 ---
-
-## 📎 Tools & Platforms Used
-
-| Area              | Tool/Platform           |
-|-------------------|--------------------------|
-| Circuit Design    | KiCad                    |
-| 3D Modeling       | Fusion 360               |
-| Microcontroller   | Raspberry Pi Pico        |
-| Firmware          | QMK Firmware (C)         |
-| Planning & PM     | Miro, Agile methodology  |
-| Assembly          | Soldering tools, 3D printer |
-
