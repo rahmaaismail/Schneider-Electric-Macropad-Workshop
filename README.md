@@ -30,7 +30,7 @@ The macropad features 9 mechanical switches in a 3x3 layout, powered by a Raspbe
   - **Resistors (including pull-up/pull-down)**, **Capacitors**, **MOSFET**, **Diodes**, **LEDs**, **Tactile Switches**, **Micro USB connecter**
 
 ### 🧱 Mechanical Design
-- Built a **3D-printed enclosure** using **Fusion 360**
+- Built a **3D-printed enclosure** using **Autodesk Fusion 360**
 - Designed for precise fitting of PCB, switches, and Pico
 - Focused on functionality and ease of assembly
 
