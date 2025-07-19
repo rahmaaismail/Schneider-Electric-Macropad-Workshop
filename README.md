@@ -1,4 +1,4 @@
-# 🔢 Schneider Electric Custom 3x3 Macropad Workshop
+# 🔢 Schneider Electric Basic 3x3 Macropad Workshop
 
 An 8-week collaborative project where we each individually designed and built a fully functional 3x3 macropad from scratch including PCB design, firmware programming, mechanical casing, and project management using Agile methodologies.
 
