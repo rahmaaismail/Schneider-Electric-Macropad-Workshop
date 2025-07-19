@@ -1,6 +1,6 @@
 # 🔢 Custom 3x3 Macropad Project
 
-An 8-week collaborative project where we designed and built a fully functional 3x3 macropad from scratch — including PCB design, firmware programming, mechanical casing, and project management using Agile methodologies.
+An 8-week collaborative project where we each individually designed and built a fully functional 3x3 macropad from scratch including PCB design, firmware programming, mechanical casing, and project management using Agile methodologies.
 
 ## 🛠 Overview
 
