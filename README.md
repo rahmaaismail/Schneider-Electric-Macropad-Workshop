@@ -2,6 +2,7 @@
 This project was developed during an 8-week hardware design workshop in collaboration with Schneider Electric. It features a custom-built 3x3 macropad that types digits 1–9, combining electrical, mechanical, and firmware design.
 
 🔧 Key Features:
+
 Circuit & PCB Design: Schematic and board layout created in KiCad
 
 Mechanical Design: 3D-printed casing modeled in Fusion 360
