@@ -23,8 +23,8 @@ The macropad features 9 mechanical switches in a 3x3 layout, powered by a Raspbe
 ## 🧩 Technical Breakdown
 
 ### 🔌 Circuit & PCB Design
-- Designed schematic and PCB layout using **KiCad**
-- Included custom **footprints**, **routing**, and **pin mapping**
+- Designed schematic and PCB layout using **KiCad** with **two copper layers** for efficient routing and signal integrity  
+- Included custom **footprints**, **routing**, and **pin mapping**  
 - Integrated components:  
   - **Raspberry Pi Pico** microcontroller
   - **Resistors (including pull-up/pull-down)**, **Capacitors**, **MOSFET**, **Diodes**, **LEDs**, **Tactile Switches**, **Micro USB connecter**
