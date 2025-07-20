@@ -1,6 +1,6 @@
 # 🔢 Schneider Electric Basic 3x3 Macropad Workshop
 
-An 8-week collaborative project, presented by the Schneider Electric Victoria team, where we each individually designed and built a fully functional 3×3 macropad from scratch, including PCB design, firmware programming, mechanical casing, and project management using Agile methodologies
+An 8-week hardware design workshop, created and presented by the Schneider Electric Victoria team, where we each individually designed and built a fully functional 3×3 macropad from scratch, including PCB design, firmware programming, mechanical casing, and project management using Agile methodologies
 
 ## 🛠 Overview
 
