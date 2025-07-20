@@ -15,7 +15,7 @@ The macropad features 9 mechanical switches in a 3x3 layout, powered by a Raspbe
 - **Firmware** written in C using QMK  
 - **Raspberry Pi Pico** as the microcontroller  
 - **3D-printed casing** built with Fusion 360  
-- **Fully soldered and assembled hardware**  
+- **Fully soldered, flashed, and assembled hardware**  
 - **Agile project management** with Miro
 
 ---
